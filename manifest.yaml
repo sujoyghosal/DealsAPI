@@ -1,0 +1,4 @@
+applications:
+- name: DealsAPISujoy
+  random-route: true
+  memory: 128M
